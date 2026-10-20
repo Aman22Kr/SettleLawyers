@@ -1,0 +1,6 @@
+{
+  "name": "SettleLawers - Legal Debt Settlement & Anti-Harassment Protection",
+  "description": "SettleLawers provides trusted legal debt settlement, anti-harassment shield against recovery agents, court case management, and RBI-compliant loan resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
